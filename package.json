@@ -1,0 +1,28 @@
+{
+  "name": "degen4life-api",
+  "version": "1.0.0",
+  "description": "api for degen4life contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonkwars/degen4life-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bonkwars/degen4life-api/issues"
+  },
+  "homepage": "https://github.com/bonkwars/degen4life-api#readme",
+  "devDependencies": {
+    "@types/circomlibjs": "^0.1.6",
+    "@types/snarkjs": "^0.7.9",
+    "circomlibjs": "^0.1.7",
+    "ethers": "^6.13.5",
+    "snarkjs": "^0.7.5"
+  }
+}
